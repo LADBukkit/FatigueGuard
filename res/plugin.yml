@@ -1,0 +1,10 @@
+name: FatigueGuard
+author: LADBukkit
+main: de.ladbukkit.fatigueguard.FatigueGuard
+version: ${version}
+depend: [WorldGuard]
+
+commands:
+  fatigueguard:
+    description: Handles the fatigue guard configuration
+    aliases: [faguard, fg]

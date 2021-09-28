@@ -1,0 +1,13 @@
+help: |-
+  &7FatigueGuard usage:
+  &e/fg fatigue <level> &8- &eSets the fatigue level
+  &e/fg add <world> <region> &8- &eAdds a region to fatigue guard
+  &e/fg remove <world> <region> &8- &eRemoves a region from fatigue guard
+fatiguelevel: '&eThe fatigue level has been set.'
+regionadd: '&eThe region has been added.'
+regiondel: '&eThe region has been removed.'
+notnumber: '&cThis is not a number!'
+nopermissions: '&cYou do not have enough permissions for this command!'
+worldnotfound: '&cThe world was not found!'
+regionnotfound: '&cThis region is no fatigue region!'
+regionfound: '&cThis region is already a fatigue region!'
