@@ -10,6 +10,9 @@ Simple as that.
 
 This plugin also supports the **\_\_global\_\_** region.
 
+## Permissions
+`fatigueguard.admin` is needed for every command of this plugin.
+
 ## Commands
 `/fg fatigue <level>` sets the mining fatigue level starting with 0.  
 `/fg add <world> <region>` adds a region of a specific world to the list of fatigue regions.  
